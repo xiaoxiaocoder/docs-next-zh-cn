@@ -26,7 +26,9 @@ features:
       超快虚拟 DOM<br>
       最省心的优化
 footer: |
-  遵循<a href="https://opensource.org/licenses/MIT" target="_blank" rel="noopener"> MIT 开源协议</a><br>
+  <a class="text-color" href="https://beian.miit.gov.cn/#/Integrated/index" target="_blank">京ICP备20021917号-1</a>
+
+  <br/>遵循<a href="https://opensource.org/licenses/MIT" target="_blank" rel="noopener"> MIT 开源协议</a><br>
   Copyright © 2014-2021 Evan You
 socialIcons:
   - type: GitHub
@@ -37,4 +39,4 @@ socialIcons:
     link: https://medium.com/the-vue-point
 ---
 
-<common-vuemastery-video-modal/>
+<!-- <common-vuemastery-video-modal/> -->

@@ -1,6 +1,6 @@
 <template>
   <SponsorsLayout extra-classes="sponsors__open-collective">
-    <template #heading>中国区视频托管赞助商</template>
+    <!-- <template #heading>中国区视频托管赞助商</template>
 
     <template #content>
       <a
@@ -14,7 +14,7 @@
           alt="Vue.JS sponsor"
         >
       </a>
-    </template>
+    </template>-->
   </SponsorsLayout>
 </template>
 

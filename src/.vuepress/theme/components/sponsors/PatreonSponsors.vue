@@ -1,6 +1,6 @@
 <template>
   <SponsorsLayout extra-classes="sponsors__patreon">
-    <template #heading>Patreon 赞助商</template>
+    <!-- <template #heading>Patreon 赞助商</template>
 
     <template #content>
       <div class="platinum">
@@ -27,7 +27,7 @@
       </div>
 
       <RoundedButton url="https://vuejs.org/support-vuejs/">成为赞助者!</RoundedButton>
-    </template>
+    </template>-->
   </SponsorsLayout>
 </template>
 

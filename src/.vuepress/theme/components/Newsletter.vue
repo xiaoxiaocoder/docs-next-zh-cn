@@ -1,7 +1,7 @@
 <template>
   <div class="newsletter">
     <div class="inner">
-      <h3><label for="member_email">订阅我们的周刊 (英文)</label></h3>
+      <!-- <h3><label for="member_email">订阅我们的周刊 (英文)</label></h3>
       <form
         class="newsletter-form"
         id="revue-form"
@@ -29,13 +29,13 @@
       </form>
       <p>
         你可以在 <a href="https://news.vuejs.org" target="_blank" rel="noopener">news.vuejs.org</a> 翻阅往期的 issue，也可以收听 podcast。
-      </p>
+      </p>-->
     </div>
   </div>
 </template>
 
 <style lang="scss" scoped>
-@import "@theme/styles/_settings.scss";
+@import '@theme/styles/_settings.scss';
 
 .newsletter {
   text-align: center;

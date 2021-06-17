@@ -1,6 +1,6 @@
 <template>
   <SponsorsLayout extra-classes="sponsors__open-collective">
-    <template #heading>Open Collective 赞助商</template>
+    <!-- <template #heading>Open Collective 赞助商</template>
 
     <template #content>
       <h4>铂金</h4>
@@ -28,7 +28,7 @@
           alt="Vue.JS gold sponsor"
         >
       </a>
-    </template>
+    </template>-->
   </SponsorsLayout>
 </template>
 

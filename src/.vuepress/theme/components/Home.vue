@@ -39,13 +39,13 @@
 
     <Content class="theme-default-content custom" />
 
-    <section class="section-sponsors" :class="{ active: sponsorsActive }" ref="sponsors">
+    <!-- <section class="section-sponsors" :class="{ active: sponsorsActive }" ref="sponsors">
       <div class="inner">
         <PatreonSponsors :sponsors="sponsors" />
         <OpenCollectiveSponsors />
         <ChinaVideoSponsors :sponsors="sponsors" />
       </div>
-    </section>
+    </section>-->
 
     <section class="section-newsletter">
       <Newsletter />
@@ -116,9 +116,8 @@ export default {
 
   methods: {
     onPageScroll() {
-      const sponsorTop = this.$refs.sponsors.offsetTop
-
-      this.sponsorsActive = window.pageYOffset > sponsorTop - 100
+      // const sponsorTop = this.$refs.sponsors.offsetTop
+      // this.sponsorsActive = window.pageYOffset > sponsorTop - 100
     }
   }
 }
